@@ -1,1 +1,2 @@
-# -A-smartphone-retailer-Analysis.
+# A-smartphone-retailer-Analysis.
+'Saap,’ a smartphone retailer, seeks to analyze historical sales data of previously launched smartphones to identify key trends, patterns, and factors influencing their performance in the market. The objective of this study is to perform detailed statistical analysis on the existing dataset to uncover sales dynamics, seasonal trends, and customer behavior patterns. By leveraging data visualization techniques and effective data storytelling, we aim to translate raw data into meaningful business insights. These findings will enable the retailer to refine its pricing, marketing, and product positioning strategies, ensuring better alignment with market demand and enhancing overall business performance.
