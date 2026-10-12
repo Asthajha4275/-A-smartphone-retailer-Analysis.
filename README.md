@@ -140,4 +140,5 @@ Each test includes a null/alternative hypothesis and a plain-language interpreta
 Data cleaning · EDA · Hypothesis testing (t-test, ANOVA, Chi-square) · Tableau dashboards and storytelling · Business reporting
 
 ---
-
+## Architecture Diagram
+![Smartphone Market Architecture](diagram%20(6).png)
