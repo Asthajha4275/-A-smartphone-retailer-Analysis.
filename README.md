@@ -141,5 +141,3 @@ Data cleaning · EDA · Hypothesis testing (t-test, ANOVA, Chi-square) · Tablea
 
 ---
 
-**Author:** Astha Kumari Jha, MBA (Data Science & Analytics), Jain University
-**GitHub:** [github.com/Asthajha4275](https://github.com/Asthajha4275)
